@@ -2,4 +2,5 @@
 Stian, Sindre, John Rune, Einar
 
 # Git - documentation
-General guidelines
+## General guidelines
+	- Commits: All commit-messages in present tense
