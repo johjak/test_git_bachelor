@@ -6,6 +6,10 @@ Stian, Sindre, John Rune, Einar
 
 ### General guidelines
 
+#### VHDL-formatting
+
+> See template
+
 #### Commits
 
 - **Always** pull *before* making any changes to files inside the repository.
