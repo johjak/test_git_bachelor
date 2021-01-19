@@ -1,3 +1,17 @@
+* commit df4480a2a24a8342f636e5ce42361c72faef4cfd
+| Author: johjak <45899759+johjak@users.noreply.github.com>
+| Date:   Tue Jan 19 11:49:17 2021 +0100
+| 
+|     README.md
+|     - Entry on VHDL-formatting
+| 
+* commit eeb47d23124b9e55cf964547eb04e25b8aac6b82
+| Author: johjak <45899759+johjak@users.noreply.github.com>
+| Date:   Tue Jan 19 11:44:22 2021 +0100
+| 
+|     commits.txt:
+|     - Update logfile.
+| 
 * commit d74c91f23c113675158b3708c13b56d6802b8e83
 | Author: johjak <45899759+johjak@users.noreply.github.com>
 | Date:   Tue Jan 19 11:43:47 2021 +0100
