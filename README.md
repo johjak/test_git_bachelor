@@ -13,5 +13,6 @@ Stian, Sindre, John Rune, Einar
 
 > examplefile1.vhd:
 > - Edit X-statement in EXAMPLE_PROC
+> 
 > examplefile2.vhd:
 > - Minor correction after compilation.
