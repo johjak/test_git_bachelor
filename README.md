@@ -8,9 +8,10 @@ Stian, Sindre, John Rune, Einar
 
 #### Commits
 
-- All commit-messages in present tense
-- A logfile, like the example `commit.txt`, is to be updated regulary, preferably each evening, to keep track of commits
-- Every change documented in commit-messsage, sorted by file edited, as the below example
+- **Always** push *before* making any changes to files inside the repository.
+- All commit-messages in present tense.
+- A **logfile**, like the example `commit.txt`, is to be updated regulary, preferably each evening, to keep track of commits.
+- Every change documented in commit-messsage, sorted by file edited, as the below example.
 
 
 #### logfile (might be able to be automated?)
