@@ -1,0 +1,33 @@
+* commit a5a5225312731dacff130617aeaefbdc974416b5
+| Author: johjak <45899759+johjak@users.noreply.github.com>
+| Date:   Tue Jan 19 11:03:42 2021 +0100
+| 
+|     README.md:
+|     - Correction in example-commit
+| 
+* commit 0d20747d7fa06a668a6b9befd482538367392aa7
+| Author: johjak <45899759+johjak@users.noreply.github.com>
+| Date:   Tue Jan 19 11:02:55 2021 +0100
+| 
+|     README.md:
+|     - Add example-commit-message under General guidelines: Commits
+| 
+* commit aaed8203931e5b45b98a1da2e568b07918d3334a
+| Author: johjak <45899759+johjak@users.noreply.github.com>
+| Date:   Tue Jan 19 10:49:46 2021 +0100
+| 
+|     README.md:
+|     - Add 1st item in general guidelines
+| 
+* commit 75f49030c7c4b78a2ca7f6f5bb4d44e5535b20b1
+| Author: johjak <45899759+johjak@users.noreply.github.com>
+| Date:   Tue Jan 19 10:39:55 2021 +0100
+| 
+|     README.md:
+|     - Added Git-documentation-subtitle
+| 
+* commit 2d215d0f8b5b6ebee5bce1202b277e9a1feaf8b1
+  Author: johjak <45899759+johjak@users.noreply.github.com>
+  Date:   Tue Jan 19 10:35:04 2021 +0100
+  
+      First commit, add README
