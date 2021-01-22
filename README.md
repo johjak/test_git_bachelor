@@ -5,7 +5,7 @@ Stian, Sindre, John Rune, Einar
 ## Git - documentation
 
 ### General guidelines
-
+Hei
 #### VHDL-formatting
 
 > See template
