@@ -5,19 +5,20 @@
 | License | Keyword |
 | ---  | ---: |
 | Academic Free License v3.0 | **afl-3.0**   |
-| Apache License 2.0 |**apache-2.0**|
+| ***Apache License 2.0** |**apache-2.0**|
 | Artistic License 2.0 | **artistic-2.0** |
 | Boost Software License 1.0 | **bsl-1.0**   |
-| BSD 2-clause "Simplified" License | **bsd-2-clause** |
-| BSD 3-clause "New" / "Revised" license | **bsd-3-clause** |
+| ***BSD 2-clause "Simplified" License** | **bsd-2-clause** |
+| ***BSD 3-clause "New" / "Revised" license** | **bsd-3-clause** |
 | Creatice Commons License Family | **cc**    |
+| ***Creative Commons Development and Distribution License 1.0** | **cddl-1.0** |
 | Creative Commons Zero v1.0 Universal | **cc0-1.0**   |
 | Creative Commons Attribution 4.0 | **cc-by-4.0**   |
 | Creative Commons Attribution Share Alike 4.0 | **cc-by-sa-4.0**  |
 | Do What The F*ck You Want To Public License | **wtfpl** |
 | Educational Community License v2.0 | **ecl-2.0** |
 | Eclipse Public License 1.0 | **epl-1.0** |
-| Eclipse Public License 2.0 | **epl-2.0** |
+| ***Eclipse Public License 2.0** | **epl-2.0** |
 | European Union Public License 1.1 | **eupl-1.1** |
 | GNU Affero General Public Liense v3.0 | **agpl-3.0** |
 | GNU General Public License family | **gpl** |
@@ -29,7 +30,7 @@
 | ISC | **isc** |
 | LaTeX Project Public License v1.3c | **lppl-1.3c** |
 | Microsoft Public License | **ms-pl** |
-| MIT | **mit** |
+| ***MIT** | **mit** |
 | Mozilla Public License 2.0 | **mpl-2.0** |
 | Open Software License 3.0 | **osl-3.0** |
 | PostgreSQL License | **postgresql** |
@@ -41,14 +42,58 @@
 ___
 ___
 
-## Academic Free License - AFL v. 3.0
+## Apache License 2.0
 
-### Grant of Copyright
+### Pros / grants
 
-- Licensor grants a worldwide, royalty-free, non-exclusive, sublicensable license, for the duration of the copyright, to:
+Copyright:
 
-  - reproduce the Original Work in copies, alone or as part of a collective work
-  - translate, adapt, alter, tarnsform, modify or arrange the OW, creating "Derivative Works based upon the OW
-  - distribute or communicate copies of the OW and DWs to the public, <ins>under any license of your choice</ins>
-  - perform or display the OW publicly
+- Perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license – to reproduce, prepare DW of, display, perform, sublicense and distribute in Source or Object form.
 
+Patent:
+
+- Perpetual, worldwide (...) patent license to make, have made, use, sell, import(...) the work. Any patent litigation regarding the Work terminates the granted patent licenses.
+
+Redistribution:
+
+- Must give any oher recipients of OW or DW a copy of the license
+- Modified files must contain notices about the files were changed
+- If the work includes a "NOTICE"-textfile, a copy of this text must be included in any DW (textfile is for informational purpose only, not for modifying the license).
+
+Trademarks:
+
+- License does not grant permission to use TM or product names of the Licensor, except for descriptional purposes
+
+___
+
+## BSD 3-Clause "New"/"Revised" license
+
+___
+
+## BSD 2-Caluse "Simplified" / "FreeBSD" license
+
+___
+
+## GNU General Public License (GPL)
+
+___
+
+## GNU Library / "Lesser" General Public Licsense (LGPL)
+
+___
+
+## MIT license
+
+___
+
+## Mozilla Public License 2.0
+
+___
+
+## Common Developmen and Distribution License
+
+___
+
+## Eclipse Public License v 2.0
+
+___
