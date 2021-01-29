@@ -23,10 +23,10 @@
 | GNU Affero General Public Liense v3.0 | **agpl-3.0** |
 | GNU General Public License family | **gpl** |
 | GNU General Public License v2.0 | **gpl-2.0** |
-| GNU General Public License v3.0 | **gpl-3.0** |
+| *GNU General Public License v3.0 | **gpl-3.0** |
 | GNU Lesser General Public License family | **lgpl** |
 | GNU Lesser General Public License v2.1 | **lgpl-2.1** |
-| GNU Lesser General Public License v3.0 | **lgpl-3.0** |
+| *GNU Lesser General Public License v3.0 | **lgpl-3.0** |
 | ISC | **isc** |
 | LaTeX Project Public License v1.3c | **lppl-1.3c** |
 | Microsoft Public License | **ms-pl** |
@@ -43,6 +43,8 @@ ___
 ___
 
 ## Apache License 2.0
+
+> Used by the Android Open Source Project
 
 ### Pros / grants
 
@@ -81,10 +83,16 @@ ___
 ### Terms
 
 1 additional condition to the 2-clause license
+
 - Name the name of the copyright holder nor the names of contributors may not be used for promotion/endorsement of resulting products without **written** permission.
+
 ___
 
 ## GNU General Public License (GPL)
+
+- __"Copyleft" license__ - redistributions are "forced" to have be completely transparent, any works derived from GPL-licensed works are required to be relicensed under GPL.
+
+### GPL3
 
 ___
 
@@ -94,13 +102,27 @@ ___
 
 ## MIT license
 
+Permission to anyone obtaining a copy of the software and associated documentation files, to deal in it without restrictions, including use, copying, modification, merging, publishing, distribution, sublicensing and/or selling copies - given the copyright- and permission notices are included in all copies of "substantial portions" of the software.
+> THE SOFTWARE IS PROVIDED "AS IS"(...)
+
 ___
 
 ## Mozilla Public License 2.0
 
-___
+Word-wide, royalty-free, non-exclusive license
 
-## Common Developmen and Distribution License
+- under IP-rights (except patent & TM)
+- under Patent Claims of such Contributor to make/use/selff/offer for sale/have made/import Contributions or its COntributor Version
+
+ ___
+
+## Common Development and Distribution License
+
+- Derived from Mozilla PL 1.1
+
+- Files under CDDL can be comvined with files licensed under other licenses, Opensource or proprietary.
+- Any Covered Software made available in Executable form must also be made available in Source Code form, latter form being distributed only under the terms of this license.
+- Incompatible with GPL
 
 ___
 
