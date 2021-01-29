@@ -81,7 +81,7 @@ ___
 ### Terms
 
 1 additional condition to the 2-clause license
-- Name the name of the copyright holder nor the names of contributors may be used for promotion/endorsement of resulting products without **written** permission.
+- Name the name of the copyright holder nor the names of contributors may not be used for promotion/endorsement of resulting products without **written** permission.
 ___
 
 ## GNU General Public License (GPL)
