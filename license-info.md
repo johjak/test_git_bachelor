@@ -66,12 +66,22 @@ Trademarks:
 
 ___
 
-## BSD 3-Clause "New"/"Revised" license
+## BSD 2-Clause "Simplified" / "FreeBSD" license
 
+### Terms
+
+Redistributions and use in source and binary forms, with or without modification, are permitted on 2 (1 for source code and the same for binary form) conditions:
+
+- Redistributions must include a copyright notices, the list of the redistribution-conditions) and a given disclaimer (warranty, liabilities (...))
+  
 ___
 
-## BSD 2-Caluse "Simplified" / "FreeBSD" license
+## BSD 3-Clause "New"/"Revised" license
 
+### Terms
+
+1 additional condition to the 2-clause license
+- Name the name of the copyright holder nor the names of contributors may be used for promotion/endorsement of resulting products without **written** permission.
 ___
 
 ## GNU General Public License (GPL)
