@@ -128,4 +128,26 @@ ___
 
 ## Eclipse Public License v 2.0
 
-___
+- Non-exclusive, worldwide, royalty-free copyright license, both under licensed patents and the work itself.
+
+If the program is distributed in any form, then
+
+- the program must also be made available as source code, as well as a statement that it's available under EPL2.0, and a reasonable way to obtain the program.
+
+If the contributor wishes to distribute the program under a different license, then that license must
+
+- **disclaim on behalf of all other contributors all warranties and conditions**, including warranties or conditions of title and non-infrinement, and implied warranties or conditions of mechantability and fitness for a particular purpose.
+- exclude on behalf of all other contributors all liability for damages, including direct, indirect, special, icidental and consequential damages, such as lost profits.
+- not attempt to limit por alter the recipients' rights in the source code given from this license.
+
+When the program is distributed as source code
+
+- it must be made available under this agreement, or if the program is combined with other material in a separate file or files under a secondary license, and the contributors agree (in writing) to allow a secondary license, then the program may be made available under the terms of said license(s).
+- A copy of the license-agreement must be included with each copy of the program.
+
+Contributors may not remove or alter any copyright, patent, trademark, attribution notices, disclaimers of warranty, or limitations of liability within the program from any distributed copy of it, but contributors may add their own appropriate notices.
+
+## Commercial Distribution
+
+- Commercial software-distributors may accept certain responsibilities with respect to end users, business parter etc. While the license is intended to facilitate commercial use, the contributor doing so should do so in a manner which does not create potential liability for the other contributors.
+
